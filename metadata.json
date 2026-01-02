@@ -1,0 +1,7 @@
+{
+  "name": "GameNexus India - Premium Gaming Marketplace",
+  "description": "A world-class, secure digital gaming asset marketplace optimized for the Indian market, featuring escrow payments, identity verification, and AI-driven fraud detection.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
